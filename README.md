@@ -47,8 +47,9 @@ Regarding our examples, we want to count the number of "hello" and the number of
 int num_lines=0,num_hello=0;
 
 }%
-
+```
 After that, it is time to write the patterns and the corresponding actions
+```
 %%
 
 hello   ++num_hello;
